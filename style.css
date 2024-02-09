@@ -1,0 +1,15 @@
+table.tabla1{
+    border: red solid;
+}
+td.blue {
+    border: blue 3px solid;
+}
+table.tabla3{
+    border: green 1px solid;
+    width: 30%;
+    height: 30%;
+}
+td.green {
+    border: green 1px solid;
+    text-align: center;
+}
